@@ -1,0 +1,1 @@
+This is a simple chatbot program that I created my COSI 11a class. Some of the files the files in Lib were created by my professor, Timothy Hickey. My code is the package, chat. 
