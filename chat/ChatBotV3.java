@@ -1,9 +1,5 @@
 /*
-I ran into several challenges whem making this program. My toughest challenge
-was trying to figure out what method to use to solve the third problem.
-I had an intial idea, but I did not know where to put it into the code.
-I had to keep moving parts of my code to different methods to achieve different
-results. My persona is based on my posse mentor. I chose this because I usually
+ My persona is based on my posse mentor. I chose this because I usually
 come to my posse mentor for different reasons. We talk about academics, social life,
 my posse, etc. Eventhough this is a silly program with silly responses, this is similates the one on one
 meetings with a posse mentor. If I had more time for this project, I would
